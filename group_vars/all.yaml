@@ -1,2 +1,3 @@
 MONGODB_HOST : mongodb.dawsdevops86.fun
 REDIS_HOST   : redis.dawsdevops86.fun
+CATALOGUE_HOST : catalogue.dawsdevops86.fun
